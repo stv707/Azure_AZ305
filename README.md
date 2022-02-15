@@ -35,7 +35,7 @@
 
 - Microsoft updates this training course when the community brings needed changes to our attention; however, because cloud updates occur frequently, you might encounter UI changes before this training content updates. If this occurs, **adapt to the changes, and then work through them in the labs as needed**.
 
-- This hub will go private on **8pm 21st of January 2022**
+- This hub will go private on **8pm 17th Feb 2022**
 
 #### **END-INFO** 
 - Thank You and Good Luck with the labs
